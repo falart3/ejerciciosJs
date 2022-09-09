@@ -22,7 +22,7 @@ var n = 0;
         document.write("<br>Voy a comprar " + miListaDeCompras[n][1] + " unidades de " + miListaDeCompras[n][0] + ".");
     }
 //funciones
-funcrion mensaje1(){
+function mensaje1(){
   document.write("<br>Hola Mundo!");
 }
 mensaje1();
